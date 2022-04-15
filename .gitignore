@@ -1,0 +1,9 @@
+﻿SocketTest/Library
+SocketTest/Temp
+*.csproj
+*.sln
+SocketTest/UserSettings
+SocketTest/Logs
+SocketTest/obj
+.vs/
+*.vsconfig
