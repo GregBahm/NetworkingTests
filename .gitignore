@@ -7,3 +7,7 @@ SocketTest/Logs
 SocketTest/obj
 .vs/
 *.vsconfig
+PhotonTest/UserSettings
+PhotonTest/Temp
+PhotonTest/Logs
+PhotonTest/Library
